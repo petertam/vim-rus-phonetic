@@ -88,24 +88,24 @@ as buffer for swapping the russian alphabet.
 press : in the ruscmd.vim before copy and paste.
 
 Action One:
-	 %s/ч/9/ge |%s/й/8/ge  |%s/к/7/ge  |%s/н/6/ge |%s/м/5/ge |%s/р/ч/ge  |%s/о/й/ge  |%s/л/к/ge  |%s/д/л/ge  |%s/ж/;/ge |%s/э/'/ge |%s/т/н/ge |%s/ь/м/ge |%s/б/,/ge |%s/ю/./ge
+		%s/ч/9/ge |%s/й/8/ge  |%s/к/7/ge  |%s/н/6/ge |%s/м/5/ge |%s/р/ч/ge  |%s/о/й/ge  |%s/л/к/ge  |%s/д/л/ge  |%s/ж/;/ge |%s/э/'/ge |%s/т/н/ge |%s/ь/м/ge |%s/б/,/ge |%s/ю/./ge
 
 Action Two:
-	%s/з/4/ge |%s/с/3/ge |%s/х/ю/ge |%s/я/з/ge |%s/ы/с/ge |%s/в/д/ge |%s/9/х/ge |%s/8/я/ge |%s/7/р/ge |%s/6/ы/ge |%s/5/в/ge
+		%s/з/4/ge |%s/с/3/ge |%s/х/ю/ge |%s/я/з/ge |%s/ы/с/ge |%s/в/д/ge |%s/9/х/ge |%s/8/я/ge |%s/7/р/ge |%s/6/ы/ge |%s/5/в/ge
 
 Action Three:
-	%s/у/5/ge |%s/и/б/ge |%s/п/7/ge |%s/ц/8/ge |%s/а/9/ge |%s/4/п/ge |%s/3/ц/ge |%s/г/у/ge |%s/ш/и/ge |%s/щ/о/ge |%s/ъ/ж/ge |%s/ё/щ/ge |%s/8/ш/ge |%s/е/т/ge |%s/5/е/ge |%s/7/г/ge |%s/ф/а/ge |%s/9/ф/ge
+		%s/у/5/ge |%s/и/б/ge |%s/п/7/ge |%s/ц/8/ge |%s/а/9/ge |%s/4/п/ge |%s/3/ц/ge |%s/г/у/ge |%s/ш/и/ge |%s/щ/о/ge |%s/ъ/ж/ge |%s/ё/щ/ge |%s/8/ш/ge |%s/е/т/ge |%s/5/е/ge |%s/7/г/ge |%s/ф/а/ge |%s/9/ф/ge
 
 Action Four:
-	%s/Ч/9/ge |%s/Й/8/ge  |%s/К/7/ge  |%s/Н/6/ge |%s/М/5/ge |%s/Р/Ч/ge  |%s/О/Й/ge  |%s/Л/К/ge  |%s/Д/Л/ge  |%s/Ж/:/ge |%s/Э/"/ge |%s/Т/Н/ge |%s/Ь/М/ge |%s/Б/</ge |%s/Ю/>/ge
+		%s/Ч/9/ge |%s/Й/8/ge  |%s/К/7/ge  |%s/Н/6/ge |%s/М/5/ge |%s/Р/Ч/ge  |%s/О/Й/ge  |%s/Л/К/ge  |%s/Д/Л/ge  |%s/Ж/:/ge |%s/Э/"/ge |%s/Т/Н/ge |%s/Ь/М/ge |%s/Б/</ge |%s/Ю/>/ge
 
 Action Five:
-	%s/З/4/ge |%s/С/3/ge |%s/Х/Ю/ge |%s/Я/З/ge |%s/Ы/С/ge |%s/В/Д/ge |%s/9/Х/ge |%s/8/Я/ge |%s/7/Р/ge |%s/6/Ы/ge |%s/5/В/ge
+		%s/З/4/ge |%s/С/3/ge |%s/Х/Ю/ge |%s/Я/З/ge |%s/Ы/С/ge |%s/В/Д/ge |%s/9/Х/ge |%s/8/Я/ge |%s/7/Р/ge |%s/6/Ы/ge |%s/5/В/ge
 
 Action Six:
-	%s/У/5/ge |%s/И/Б/ge |%s/П/7/ge |%s/Ц/8/ge |%s/А/9/ge |%s/4/П/ge |%s/3/Ц/ge |%s/Г/У/ge |%s/Ш/И/ge |%s/Щ/О/ge |%s/Ъ/Ж/ge |%s/Ё/Щ/ge |%s/8/Ш/ge |%s/Е/Т/ge |%s/5/Е/ge |%s/7/Г/ge |%s/Ф/А/ge |%s/9/Ф/ge
+		%s/У/5/ge |%s/И/Б/ge |%s/П/7/ge |%s/Ц/8/ge |%s/А/9/ge |%s/4/П/ge |%s/3/Ц/ge |%s/Г/У/ge |%s/Ш/И/ge |%s/Щ/О/ge |%s/Ъ/Ж/ge |%s/Ё/Щ/ge |%s/8/Ш/ge |%s/Е/Т/ge |%s/5/Е/ge |%s/7/Г/ge |%s/Ф/А/ge |%s/9/Ф/ge
 
-> REMEMBER: you must :wq save and re-open to make plugin effective
+> REMEMBER: you must run `:wq` to save and re-open to make plugin effective
 
 
 # LICENSE
