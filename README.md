@@ -13,16 +13,17 @@ Works only with Unicode.
 
 # CREDIT
 
-Derived from ruscmd 1.4 by Alex Efros.
-[ruscmd](https://www.vim.org/scripts/script.php?script_id=3885)
-by Peter Tam peter at wapeter.com (2020-10-17).
+Derived from [ruscmd](https://www.vim.org/scripts/script.php?script_id=3885) 1.4 by Alex Efros.
+
+Patched by Peter Tam peter at wapeter.com (2020-10-17).
 
 # TESTED
 
 Tested in Vim 8.0 MacOS Mojave, Macbook Pro bought in 2019. 
 
 ## My Macbook keyboard
-`
+
+```
 English keyboard:
 ~ 12345  67890-=
   qwert  yuiop[]\
@@ -31,11 +32,13 @@ English keyboard:
 ```
 --- 
 
+```
 Russian Phoentic keyboard:
 щ 12345  67890ьъ
   яшерт  ыуиопюжэ
   асдфг  чйкл;'
   зхцвб  нм,./
+```
 
 ---
 
