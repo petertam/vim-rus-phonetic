@@ -1,6 +1,6 @@
 " Maintainer: Peter Tam peter_at_wapeter.com 
 " Last Modified: 2020-10-17
-" License: This file is placed in the public domain.
+" License: MIT LICENSE
 " Description: Support command mode in Russian Phonetic keyboard layout (Unicode) MacOS Mojave 2019 Macbook Pro
 " NOTE: \ is not supported, as э is not properly mapped. 
 
